@@ -1,7 +1,7 @@
 <h1 align="center"> 💧 Hydro Headlines 💧 </h1>
 
 <div align="center">
-  <img src="https://hydro-headlines.github.io/static/favicon.png" alt="Hydro Headlines Logo" width="150px">
+  <img src="https://svgur.com/i/wCB.svg" alt="Hydro Headlines Logo" width="150px">
 </div>
 
 Welcome to Hydro Headlines, your ultimate source for in-game news and updates from the captivating world of Arcane Odyssey! Delve into the depths of this fantastical universe and stay up-to-date with the latest adventures, developments, and discoveries.
